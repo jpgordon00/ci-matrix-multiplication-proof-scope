@@ -1,0 +1,9 @@
+{
+  "schema": "works-by-us.problem.v1",
+  "id": "matrix-multiplication-proof-scope",
+  "repository": "https://github.com/jpgordon00/ci-matrix-multiplication-proof-scope",
+  "hub": "https://github.com/jpgordon00/works-by-us",
+  "problem": "https://works-by-us.jacob-gordon255689.chatgpt.site/problems/matrix-multiplication-proof-scope/",
+  "mcp": "https://works-by-us.jacob-gordon255689.chatgpt.site/api/mcp/projects/matrix-multiplication-proof-scope",
+  "catalog_commit": "c2be45e6ee0403d38cf146d1a540cf33ccd89065"
+}
